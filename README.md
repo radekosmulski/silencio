@@ -12,7 +12,7 @@ A Chrome extension that modifies x.com (formerly twitter.com) to automatically s
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/silencio.git
+   git clone https://github.com/radekosmulski/silencio.git
    ```
 
 2. Open Chrome and navigate to `chrome://extensions/`
