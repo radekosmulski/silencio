@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Silencio",
+  "version": "1.0",
+  "description": "Customize your x.com experience",
+  "permissions": ["activeTab"],
+  "content_scripts": [{
+    "matches": [
+      "https://x.com/*",
+      "https://twitter.com/*"
+    ],
+    "js": ["content.js"]
+  }]
+} 
